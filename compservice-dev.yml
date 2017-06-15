@@ -1,4 +1,4 @@
 server_port: 6565
 server_name: Compservice DEV
-amqp.connection.string: amqp://guest:guest@192.168.99.100:5672
-zipkin.service.url: http://192.168.99.100:9411
+amqp.connection.string: amqp://guest:guest@54.162.216.121:5672
+zipkin.service.url: http://54.162.216.121:9411
